@@ -1,6 +1,6 @@
 # gitzip
 
-[demo site](https://kinolien.github.com/gitzip)
+[demo site](https://kinolien.github.io/gitzip)
 
 [demo site: Usage of download link via Parameters](https://github.com/KinoLien/gitzip/blob/gh-pages/README.md)
 
